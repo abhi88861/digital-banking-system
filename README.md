@@ -57,20 +57,20 @@ digital-banking-system/
 │   │   ├── SecurityConfig.java                                                
 │   │   ├── JwtAuthenticationFilter.java                                          
 │   │   ├── CustomUserDetailsService.java                                         
-│   │   └── CorsConfig.java
-│   │
-│   ├── controller/
-│   │   ├── AuthController.java
-│   │   └── TransactionController.java
-│   │
-│   ├── dto/  (Request/Response Models)
-│   ├── entity/ (User, Transaction)
-│   ├── repository/ (JPA Repositories)
-│   ├── service/ (UserService, TransactionService)
-│   ├── util/ (JwtUtil)
-│   └── DigitalBankingApplication.java
-│
-└── src/main/resources/
-    ├── application.properties
+│   │   └── CorsConfig.java        
+│   │                                          
+│   ├── controller/                      
+│   │   ├── AuthController.java                    
+│   │   └── TransactionController.java                          
+│   │                          
+│   ├── dto/  (Request/Response Models)                                  
+│   ├── entity/ (User, Transaction)                                                
+│   ├── repository/ (JPA Repositories)                              
+│   ├── service/ (UserService, TransactionService)                                
+│   ├── util/ (JwtUtil)                                      
+│   └── DigitalBankingApplication.java                                
+│                                        
+└── src/main/resources/                              
+    ├── application.properties                                  
     
-
+      
