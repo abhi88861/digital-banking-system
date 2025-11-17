@@ -50,7 +50,7 @@ Features
       Language	  :  Java 17+
     
 📁 Project Structure
-digital-banking-system/
+digital-banking-system/                                                    
 │
 ├── src/main/java/com/bank/digital_banking/
 │   ├── config/
