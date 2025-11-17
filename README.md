@@ -52,11 +52,11 @@ Features
 📁 Project Structure
 digital-banking-system/                                                    
 │
-├── src/main/java/com/bank/digital_banking/
-│   ├── config/
-│   │   ├── SecurityConfig.java
-│   │   ├── JwtAuthenticationFilter.java
-│   │   ├── CustomUserDetailsService.java
+├── src/main/java/com/bank/digital_banking/                                      
+│   ├── config/                                                          
+│   │   ├── SecurityConfig.java                                                
+│   │   ├── JwtAuthenticationFilter.java                                          
+│   │   ├── CustomUserDetailsService.java                                         
 │   │   └── CorsConfig.java
 │   │
 │   ├── controller/
