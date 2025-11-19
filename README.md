@@ -28,7 +28,9 @@ Features
           Withdraw                       
           Transfer to another account                    
           Fixed Deposit creation                       
-          Transaction history (saved to transactions table)                   
+          Transaction history (saved to transactions table)              
+
+          
       Each transaction stores:                      
           Transaction ID (UUID)                   
           Account Number                   
